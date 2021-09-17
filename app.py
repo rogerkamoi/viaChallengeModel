@@ -8,10 +8,10 @@ def index():
     return "Hello World"
 
 
-@app.route('/mike')
-def mike():
-    return "Hello World Mike"
+@app.route('/about')
+def about():
+    return "<h1> Challenge Page </h1>"
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
