@@ -11,3 +11,5 @@ A simple neural network was used to process the data set with RELU activation fu
 The notebook contains the model rationale.
 
 The service is in the  viaChallenge repo.
+
+Please check master branch
