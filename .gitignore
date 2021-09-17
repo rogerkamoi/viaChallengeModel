@@ -1,0 +1,11 @@
+__MACOSX/*
+.ipynb_checkpoints/*
+instance/*
+!instance/.gitignore
+.webassets-cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.zip
+*.exe
+pictures/
