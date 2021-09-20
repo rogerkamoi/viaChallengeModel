@@ -1,5 +1,5 @@
 # viaChallengeModel
-This is the result of the ML Ops Chalenge.
+This is the result of the ML Ops Challenge.
 
 Iris Model trained and serialized
 
